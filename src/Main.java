@@ -35,7 +35,7 @@ public class Main {
 
         System.out.println("Общий вес бойцов "+resultSumm);
         System.out.println("Разница в весе "+ resultDifference);
-        System.out.println("Отстаток от деления "+ resultOfweight);
+        System.out.println("Отстаток от деления  "+ resultOfweight);
 
         var hours = 640 ;
         var employees = 640/8;
